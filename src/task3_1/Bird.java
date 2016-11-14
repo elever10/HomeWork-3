@@ -1,4 +1,4 @@
-package teask3_1;
+package task3_1;
 
 /**
  * Created by elve on 11/14/2016.
